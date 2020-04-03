@@ -6,6 +6,7 @@ h1{
     position: absolute;
     height: 25px; width: 210px;
     font-family: Nyte;
+    margin-block-start: 0cm;
 }
 h2{
     font-size: 12px;
@@ -19,11 +20,11 @@ h3{
 
 }
 .first{
-    padding-top: 9.4%;
+    padding-top: 8%;
 }
 .img{ 
     padding-left: 16%; 
-    padding-top: 2%;
+    padding-top: 14.5px;
     position: absolute; 
     width: 1099px; height: 446;
     z-index: -1;
