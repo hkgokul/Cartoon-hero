@@ -2,11 +2,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap');
 
 h1{ 
-    font-size: 45px;
+    font-size: 30px;
     position: absolute;
     height: 25px; width: 210px;
     font-family: Nyte;
-    margin-block-start: 0cm;
+    margin-block-start: 0cm;  
+}
+h1 span{
+    color: red;
 }
 h2{
     font-size: 12px;
